@@ -1,0 +1,304 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#byby {
+ text-align: center;
+}
+
+#gbr {
+  width: 360px;
+  height: 700px;
+}
+#name {
+  top: 0px
+}
+
+#name {
+  position: relative;
+  top: -350px;
+  color: #fff;
+  text-align: center;
+  font-family: 'Tilt Warp', cursive;
+  
+}
+
+#gbr2 {
+  width: 120px;
+  position: relative;
+  top: -550px;
+  
+}
+
+#dm {
+  position: relative;
+  top: -870px;
+  right: 90px;
+  font-family: 'Tilt Warp', cursive;
+  color: white;
+}
+
+#btn1 {
+  color: white;
+  width: auto;
+  position: relative;
+  top: -905px;
+  background: none;
+  border: none;
+  left: 130px;
+}
+
+#des {
+  color: white;
+  position: relative;
+  top: -560px;
+  font-family: 'Tilt Warp', cursive;
+}
+
+#kc {
+  color: white;
+  position: relative;
+  top: -540px;
+  font-size: 15px;
+  
+  font-family: 'Tilt Warp', cursive;
+}
+
+#abm {
+  text-align: center;
+}
+
+#abl {
+  font-family: 'Tilt Warp', cursive;
+  font-size: 40px;
+  position: relative;
+  top: -250px;
+}
+
+#brt {
+  width: 150px;
+  position: relative;
+  top: -250px;
+
+}
+
+#rv {
+  font-family: 'Tilt Warp', cursive;
+  font-size: 30px;
+  position: relative;
+  top: -220px;
+}
+
+#dc {
+  font-family: 'Tilt Warp', cursive;
+  position: relative;
+  top: -220px;
+  
+}
+#skl {
+  text-align: center;
+  background: #FF00FF;
+ padding-top: 40px;
+ padding-bottom: 90px;
+  font-family: 'Tilt Warp', cursive;
+}
+#sk {
+  color: white;
+}
+#card {
+  background-color: white;
+  width: 280px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 37px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+}
+
+#ns {
+  margin-top: 30px;
+}
+ #hm {
+   margin-left: 50px;
+   margin-top: 30px;
+   background-color: pink;
+   width: 25%;
+   padding: 5px;
+   border-radius: 20px;
+ }
+ #cs {
+   margin-top: -44px;
+   margin-left: 150px;
+     
+  background-color: pink;
+   width: 25%;
+   padding: 5px;
+   border-radius: 20px;
+ }
+ 
+ #js {
+   margin-top: 40px;
+   background-color: pink;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+ }
+ 
+ #pw {
+   margin-top: 40px;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ 
+ #py {
+      margin-top: 40px;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ 
+ #card2 {
+   background-color: white;
+  width: 280px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 37px;
+  padding-bottom: 20px;
+  
+  
+ }
+ 
+ 
+ #jr {
+   
+   margin-top: 70px;
+ }
+ #kf {
+         margin-top: 40px;
+   width: 45%;
+   padding: 5px;
+   margin-left: 76px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ #km {
+         margin-top: 40px;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ 
+ #an {
+         margin-top: 40px;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ 
+  #cl {
+         margin-top: 40px;
+   width: 42%;
+   padding: 5px;
+   margin-left: 80px;
+   border-radius: 20px;
+   background-color: pink;
+ }
+ 
+ #ak {
+   font-family: 'Tilt Warp', cursive;
+   margin-top: 170px;
+   background: #202020;
+   padding-top: 140px;
+   color: gray;
+   padding-bottom: 20px
+ }
+ 
+ #bw {
+   color: white;
+   margin-left: 20px;
+ }
+ #dl {
+   color: gray;
+   margin-left: 20px;
+ }
+ 
+ #buy {
+   margin-left: 20px;
+ }
+ 
+ #sc {
+   color: white;
+   margin-left: 20px;
+   margin-top: 70px;
+ }
+ 
+ #ig {
+   color: #0000FF;
+   margin-left: 20px;
+   margin-top: 20px;
+ }
+ 
+  #yt {
+   color: #0000FF;
+   margin-left: 20px;
+ }
+ 
+  #gt {
+   color: #0000FF;
+   margin-left: 20px;
+ }
+ 
+  #tk {
+   color: #0000FF;
+   margin-left: 20px;
+ }
+ 
+ #cp {
+   text-align: center;
+   font-family: 'Dosis', sans-serif;
+   margin-top: 120px;
+ }
+ #gg {
+   font-family: 'Tilt Warp', cursive;
+   text-align: center;
+   position: relative;
+   top: -1110px;
+   left: px;
+   display: none;
+ }
+ 
+ #hi {
+   background-color: rgba(0, 0, 0, 0.2);
+   width: 280px;
+   border: 0.1px solid;
+   border-radius: 3px;
+   padding: 10px;
+ }
+  #ab {
+   background-color: rgba(0, 0, 0, 0.2);
+   width: 280px;
+   border: 0.1px solid;
+   padding: 10px;
+ }
+  #skil {
+   background-color: rgba(0, 0, 0, 0.2);
+   width: 280px;
+   border: 0.1px solid;
+   padding: 10px;
+ }
+  #tp {
+   background-color: rgba(0, 0, 0, 0.2);
+   width: 280px;
+   border: 0.1px solid;
+   padding: 10px;
+ }
